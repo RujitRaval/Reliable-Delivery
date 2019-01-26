@@ -1,0 +1,2 @@
+
+A socket can be referred to by a process (a running computer program) by using a socket descriptor, a type of handle (abstract reference, often represented internally as an integer). A process first requests that the protocol stack create a socket, and the stack returns a descriptor to the process so it can identify the socket. 
